@@ -1,4 +1,3 @@
-https://media.licdn.com/dms/image/D4E16AQEByJSvYYqdLA/profile-displaybackgroundimage-shrink_350_1400/0/1719136086224?e=1727308800&v=beta&t=CX1YxR14yqCIwifE_Re-JFv7hjkLuiPANPSyVfZwbkQ
 
 <h1 align="center">Hi 👋, I'm Rahman</h1>
 <h3 align="center">Python Developer from Azerbaijan</h3>
